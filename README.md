@@ -1,6 +1,6 @@
 # Lottory-Form
  This Project wrote only with HTML5
-![lottory1](https://github.com/Moniia/Lottory-Form/assets/155805252/7d727deb-a35e-4436-8367-80b5c59c95ed)
+<img width="956" alt="lottary2" src="https://github.com/Moniia/Lottory-Form/assets/155805252/70253121-9635-496c-ba48-4a4136347484">
 
 - [Demo Project](https://moniia.github.io/Lottory-Form/)
 
